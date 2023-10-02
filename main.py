@@ -1,1 +1,2 @@
-print(2 / 1.4)
+a = "Hello, World!"
+print(a[:4])
